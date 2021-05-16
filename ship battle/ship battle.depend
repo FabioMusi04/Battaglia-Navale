@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620233091 source:c:\users\fabio\desktop\scuola\visual studio\c++ progetti\ship battle\main.cpp
+	<iostream>
+	<ctime>
+
