@@ -98,7 +98,7 @@ int main()
                 cout << "Input non valido" << endl;
                 return 0;
             }
-            if(tolower(ris) == 'esc')
+            if(ris == 'ESC')
                 return 0;
         }
     }
